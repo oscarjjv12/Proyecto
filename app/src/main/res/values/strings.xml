@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="p1txtop">Opciones</string>
+    <string name="p1btndatos">Datos</string>
+    <string name="p1txtregre">Datos regresados</string>
+    <string name="p1lblnombre">Nombre</string>
+    <string name="p1lbledad">Edad</string>
+    <string name="p1lblcorreo">Correo</string>
+    <string name="p2txtingrese">Ingresa tus datos</string>
+    <string name="p2lblnombre">Nombre</string>
+    <string name="p2lbledad">Edad</string>
+    <string name="p2lblcorreo">Correo</string>
+    <string name="p2btnregresa">Regresar</string>
+    <string name="p2btncancelar">Cancelar</string>
+</resources>
